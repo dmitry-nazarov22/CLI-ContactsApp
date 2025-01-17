@@ -7,8 +7,6 @@ contact-information.
 
 ## Description
 
-* [LINK TO MY SCREENCAST](https://youtu.be/1IIRuaWblSo)
-
 This program manages user-given contact-information by saving it into a CSV-file precisely without losing any information before quitting.
 
 The contact has: Finnish ID number, first name, last name, phone number, address (optional) and email (optional).
